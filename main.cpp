@@ -2,7 +2,7 @@
 
 int main()
 {
-   int x, n, resultado = 0;
+   int x, n, resultado;
    printf("Digite o numero n: ");
    scanf("%i", &n);
    printf("Digite o numero x: ");
